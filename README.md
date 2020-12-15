@@ -1,6 +1,7 @@
 # MyCalculator-
 Android Studio Application (Java)
 
+Instructions on how to run the app:
 
 1. Download Android Studio Appilcation
 
