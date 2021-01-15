@@ -12,6 +12,7 @@ Instructions on how to run the app:
 3. Download my project from Github by using this command: git clone https://github.com/Mehar-A/MyCalculator-.git
 4. Or download it straight from Github
 5. Open the project from android studio and build and run the project
+6. Select an emulator in Android Studio, or connect your andriod phone to Android Studio
 6. Test the appilcation and have fun
 
 
